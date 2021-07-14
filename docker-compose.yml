@@ -3,4 +3,4 @@ services:
   node14:
     build:
       dockerfile: node14.Dockerfile
-    image: gusdecool/docker-yarn:14
+    image: gusdecool/node-yarn:14
